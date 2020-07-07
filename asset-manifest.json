@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ContactKeeper/static/css/main.620fe750.chunk.css",
+    "main.js": "/ContactKeeper/static/js/main.e822d980.chunk.js",
+    "main.js.map": "/ContactKeeper/static/js/main.e822d980.chunk.js.map",
+    "runtime-main.js": "/ContactKeeper/static/js/runtime-main.3043890a.js",
+    "runtime-main.js.map": "/ContactKeeper/static/js/runtime-main.3043890a.js.map",
+    "static/js/2.6406c3ff.chunk.js": "/ContactKeeper/static/js/2.6406c3ff.chunk.js",
+    "static/js/2.6406c3ff.chunk.js.map": "/ContactKeeper/static/js/2.6406c3ff.chunk.js.map",
+    "index.html": "/ContactKeeper/index.html",
+    "precache-manifest.c5aa0f555dc587dd7e81b488e61e9bd4.js": "/ContactKeeper/precache-manifest.c5aa0f555dc587dd7e81b488e61e9bd4.js",
+    "service-worker.js": "/ContactKeeper/service-worker.js",
+    "static/css/main.620fe750.chunk.css.map": "/ContactKeeper/static/css/main.620fe750.chunk.css.map",
+    "static/js/2.6406c3ff.chunk.js.LICENSE.txt": "/ContactKeeper/static/js/2.6406c3ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3043890a.js",
+    "static/js/2.6406c3ff.chunk.js",
+    "static/css/main.620fe750.chunk.css",
+    "static/js/main.e822d980.chunk.js"
+  ]
+}
